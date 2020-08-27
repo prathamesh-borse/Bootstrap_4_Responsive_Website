@@ -286,7 +286,7 @@ Just Clone this repositry in your PC or Laptop or Download this project in your 
 For detailed explanation, visite [How To](https://code.visualstudio.com/docs/editor/github)
 
 ```bash
-  git@github.com:viraldevpb/Bootstrap_4_Responsive_Website.git
+$ git@github.com:viraldevpb/Bootstrap_4_Responsive_Website.git
 ```
 
 ## Questions or Suggestions
