@@ -5,7 +5,7 @@
 This is Travel Based Repositry Bootstrap 4 Responsive Website created on 3rd July also it will help you to reach your audience through this website..
 This is Travel Based Repositry Bootstrap 4 Responsive Website can have High-quality photography.
 
-## Technology used : HTML and CSS
+## Technology used : HTML and CSS  and also php
 
 ## Usage
 
